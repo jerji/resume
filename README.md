@@ -1,11 +1,11 @@
 # Resume
-Passionate hardware reverse-engineer and avid research enthusiast, specializing in embedded systems. Seeking opportunities within a cutting-edge organization that fosters an inclusive culture. With over 10 years of experience in server administration and programming, as an active member of the local security community, I am eager to bring my diverse skillset to your team.
+Passionate hardware reverse-engineer and avid research enthusiast specializing in embedded systems. Seeking opportunities within a cutting-edge organization that fosters an inclusive culture. With over 10 years of experience from reverse engineering to server administration and software engineering, and as an active member of the local security community, I am eager to bring my diverse skill set to your team.
 
 ## Work experience
 
 ### Beanfield
 2021-10 - Present
-- Led a comprehensive security analysis of a network product widely-used by the company, identifying multiple critical issues, including an authentication bypass that granted full device control and potential for denial of service.
+- Led a comprehensive security analysis of a network product widely used by the company, identifying multiple critical issues, including an authentication bypass that granted full device control and potential for denial of service.
 - Initiated and executed a security plan after identifying critical vulnerabilities in a vendor's access control system that could have lead to undetected access.
 - Served as the key liaison between Network/Engineering and Security teams, championing the cause for a more secure environment.
 - Pioneered the development of secure automation code for swift deployment of new services, ensuring secure settings across the company network and minimizing human error.
@@ -28,23 +28,23 @@ Passionate hardware reverse-engineer and avid research enthusiast, specializing 
 ## Competitions
 
 ### CTF Team member
-- Core member of the Skiddies-as-a-Service team, focusing on reverse-engineering and embedded challenges at world’s largest capture-the-flag hacking competition.
+- Core member of the Skiddies-as-a-Service NorthSec team, focusing on reverse-engineering and embedded challenges at world's largest capture-the-flag hacking competition.
 - Top Placements: 3rd (of 80) in 2021, 4th (of 80) in 2022, 4th (of 78) in 2020.
 
 ### Red Balloon soldering competition
-- Won the Red Balloon BGA re-balling competition at RECON 2022, with the fastest time.
+- Won the Red Balloon BGA re-balling competition at RECON 2022.
 
 ## Volunteering
 
 ### Soldering village
-- Helped launch a soldering village at Hackfest and then at Northsec that teaches people of all ages how to solder.
+- Helped launch a soldering village at Hackfest and then at NorthSec that teaches people of all ages how to solder.
 - Taught volunteers how to solder and teach others at the conference.
 
 ## Skills
-- Micro soldering
-- Pyhton, PHP, C, C++, Embeded C, Bash, Java, Assembly
-- Embeded Linux
-- Embeded Windows
+- Microsoldering
+- Python, PHP, C, C++, Embedded C, Bash, Java, Assembly
+- Embedded Linux
+- Embedded Windows
 - Ghidra, Angr, GDB
 - KiCAD
 - Proxmark3, HackRF
