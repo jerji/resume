@@ -1,5 +1,8 @@
 RESUME.md
+Angel_Ouellet.pdf
+*.aux
 
+.auctex-auto
 .DS_Store
 .idea
 *.log
