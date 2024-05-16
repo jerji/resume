@@ -42,8 +42,8 @@ volunteering:
 -
   name: Soldering Village
   bullets: |
-    - Trains and supervises a group of instructors teaching soldering at Montréal-based technology conferences, including Hackfest and NorthSec.
-    - Has taught both through-hole and SMT soldering to hundreds of students, with subordinate instructors teaching over TKTKTKTKTK. 
+    - Trains and supervises a group of instructors teaching soldering at Montréal-based technology conferences, including Hackfest (2018--2019) and NorthSec (2019--Present).
+    - Has taught both through-hole and SMT soldering to hundreds of students, with subordinate instructors teaching thousands. 
 - 
   name: YOTA (art collective)
   bullets: |
@@ -52,6 +52,9 @@ volunteering:
     - Created and maintains organizational IT infrastructure, including self-hosted productivity and collaboration tools
     - Organizes, manages volunteers, and performs set-up/strike of performance events
 skills:
+-
+  name: Languages
+  list: "English (Native, ILR: 5/CEFR: C2), French (Native, ILR: 5/CEFR: C2)"
 -
   name: Hardware
   list: DEP (Electronic Repair), EAGLE, Fusion 360, Hand Microsoldering (≥ 0603 [metric]), KiCAD 
@@ -63,7 +66,7 @@ skills:
   list: Bash, C, C#, C++, Embedded C, Java, LabVIEW, PHP, Python, VB.NET, x86 Assembly
 -
   name: Selected Tools
-  list: Angr, GDB, Ghidra, IDA Pro, Metasploit, nmap, Wireshark
+  list: Angr, GDB, Ghidra, IDA Pro, Metasploit, Nmap, Wireshark
 ---
 
 
