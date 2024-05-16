@@ -6,29 +6,28 @@ jobs:
   jobtitle: Network Systems Integration Developer 
   dates: 2021/10 -- Present
   bullets: |
-    - Led a comprehensive security analysis of a network product widely used by the company, identifying multiple critical issues, including an authentication bypass that granted full device control and potential for denial of service.
-    - Initiated and executed a security plan after identifying critical vulnerabilities in a vendor's access control system that could have lead to undetected access.
-    - Served as the key liaison between Network/Engineering and Security teams, championing the cause for a more secure environment.
-    - Pioneered the development of secure automation code for swift deployment of new services, ensuring secure settings across the company network and minimizing human error.
-    - Championed the adoption of open-source contributions within the company, leading by example through my active participation and code contributions.
+    - Leads security analyses of new and legacy equipment, from detection through mitigation and until full remediation. Identified multiple critical issues in a deployed, on-backbone device including authentication bypass leading to full administrative control. Discovered major vulnerability in physical access control system which allowed undetected access to corporate and production systems.
+    - Spearheads development of infrastructure automation, minimizing human error and rapidly accelerating delivery of both products and services. Automated provisioning of end-user network equipment, eliminating technician on-site waiting time and allowing for more customer deployments per day.
+    - Acts as embedded security liaison to the Network/Engineering organization, providing guidance and feedback during development and implementation.
+    - Champions the safe adoption of open-source technology and contributions within the company, leading by example through work with LibreNMS, Oxidized, etc.
 -
   name: AYE3D
   jobtitle: Lead Software Developer
   dates: 2019/05 -- 2021/10
   bullets: |
-    - Orchestrated the deployment of local infrastructure to safeguard company information and establish secure remote access.
-    - Initiated efforts to refactor an abandoned code base, leading to swift resumption of development progress.
-    - Led the re-implementation of a complex driver software code base into Object Oriented C++, enhancing both speed and simplicity of the code.
-    - Engineered custom hardware and software solutions for our products, leading to increased stability and reduced costs.
-    - Conceptualized and implemented a custom update process for devices, ensuring secure upgrades, eliminating the need for a technician.
+    - Served as lead software developer, designing the software roadmap and mentoring small team of 3 developers.
+    - Presided over the modernization and refactoring of a C# code base, enabling new features to once more be deployed.
+    - Led the re-implementation of a complex driver into Object Oriented C++, eliminating a significant source of crashes and improving performance.
+    - Conceptualized and implemented a custom update process for devices, ensuring secure and reliable upgrades, eliminating the need for technicians to physically service deployed devices.
+    - Orchestrated the deployment of new IT infrastructure, including secure remote access to corporate resources.
 -
   name: Electro-Techno
   jobtitle: Electronics Repair Technician 
   dates: 2019/02 -- 2019/10
   bullets: |
-    - As a key member of a team, I specialized in handling early computer based systems. My unique expertise in this area complemented the team's collective skills in reverse-engineering damaged or malfunctioning industrial system controllers to isolate and repair faults, including legacy systems where no documentation or other support pathways exist.
-    - Solely responsible for debugging Windows Embedded installations, including proprietary and undocumented software.
-    - Pioneered the writing of custom software to enable a new repair revenue stream for re-calibration and restoration of Human Machine Interfaces for a national regulated transportation co.
+    - Reverse-engineered and repaired damaged or malfunctioning industrial control systems, including legacy systems where no documentation or support exists.
+    - Sole developer debugging software and operating system problems, including MS-DOS, Linux, and Windows Embedded systems.
+    - Authored custom software package and enabling a new repair revenue stream through automated recalibration and restoration of a human/machine interface for a nationally regulated  transportation company.
 competitions:
 -
   name: NorthSec
