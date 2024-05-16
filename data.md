@@ -39,9 +39,18 @@ competitions:
   bullets: |
     - Won the Red Balloon BGA re-balling competition at REcon 2022. 
 volunteering:
+-
+  name: Soldering Village
+  bullets: |
+    - Trains and supervises a group of instructors teaching soldering at Montréal-based technology conferences, including Hackfest and NorthSec.
+    - Has taught both through-hole and SMT soldering to hundreds of students, with subordinate instructors teaching over TKTKTKTKTK. 
 - 
-  name: soldering shit
-  bullets: ashtoneashtioenasht
+  name: YOTA (art collective)
+  bullets: |
+    - Founding member of the art collective, lead of the infrastructure and security team
+    - Designed and supervised volunteer installation of a multi-floor access control system and network, including alarm/telecom wiring
+    - Created and maintains organizational IT infrastructure, including self-hosted productivity and collaboration tools
+    - Organizes, manages volunteers, and performs set-up/strike of performance events
 skills:
 -
   name: Hardware
