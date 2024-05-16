@@ -1,0 +1,6 @@
+RESUME.md
+
+.DS_Store
+.idea
+*.log
+tmp/
