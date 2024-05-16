@@ -37,20 +37,24 @@ competitions:
 -
   name: REcon
   bullets: |
-    - Won the Red Balloon BGA re-balling competition at RECON 2022. 
+    - Won the Red Balloon BGA re-balling competition at REcon 2022. 
 volunteering:
 - 
   name: soldering shit
   bullets: ashtoneashtioenasht
-skills: |
-  - Microsoldering
-  - Python, PHP, C, C++, Embedded C, Bash, Java, Assembly
-  - Embedded Linux
-  - Embedded Windows
-  - Ghidra, Angr, GDB
-  - KiCAD
-  - Proxmark3, HackRF
-
+skills:
+-
+  name: Hardware
+  list: DEP (Electronic Repair), EAGLE, Fusion 360, Hand Microsoldering (≥ 0603 [metric]), KiCAD 
+-
+  name: Operating Systems
+  list: BSD, Linux, Mac OS, Windows, Windows Embedded 
+-
+  name: Programming Languages
+  list: Bash, C, C#, C++, Embedded C, Java, LabVIEW, PHP, Python, VB.NET, x86 Assembly
+-
+  name: Selected Tools
+  list: Angr, GDB, Ghidra, IDA Pro, Metasploit, nmap, Wireshark
 ---
 
 

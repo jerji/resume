@@ -28,4 +28,7 @@ $it.bullets$
 $endfor$
 
 ## Skills
-$skills$
+
+$for(skills)$
+- **$it.name$:** $it.list$
+$endfor$
