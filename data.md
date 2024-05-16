@@ -2,7 +2,7 @@
 abstract: Passionate hardware reverse-engineer and avid research enthusiast specializing in embedded systems. Seeking opportunities within a cutting-edge organization that fosters an inclusive culture. With over 10 years of experience from reverse engineering to server administration and software engineering, and as an active member of the local security community, I am eager to bring my diverse skill set to your team.
 jobs:
 - 
-  name: Beanfield
+  name: Beanfield Metroconnect
   jobtitle: Network Systems Integration Developer 
   dates: 2021/10 -- Present
   bullets: |

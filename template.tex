@@ -1,5 +1,6 @@
-\documentclass{article}
+\documentclass[hidelinks]{article}
 
+\usepackage{hyperref}
 \usepackage{fontspec}
 \usepackage[english]{babel}
 \usepackage{microtype}
@@ -8,6 +9,11 @@
 \usepackage{xcolor}
 \usepackage{geometry}
 \usepackage{titlesec}
+
+\hypersetup{
+  pdftitle={Angel Ouellet Resume},
+  pdfauthor={Angel Ouellet}
+}
 
 \geometry{letterpaper, margin=1in}
 
@@ -40,7 +46,7 @@
     \begin{tikzpicture}[remember picture, overlay]
       \fill [angelpurp] (0,0) rectangle (\paperwidth,1.5in);
       \node[anchor=west, xshift=\leftymargin, yshift=0.75in] {{\Huge\color{white}\textbf{Angel Ouellet}}};
-      \node[anchor=west, xshift=\leftymargin, yshift=0.75in-20pt] {\large\color{white}resume@jouellet.net};
+      \node[anchor=west, xshift=\leftymargin, yshift=0.75in-20pt] {\large\color{white}\href{mailto:resume@jouellet.net}{resume@jouellet.net}};
     \end{tikzpicture}
   };
 \end{tikzpicture}
@@ -51,7 +57,8 @@ $abstract$
 
 \section{Work History}
 $for(jobs)$
-\textbf{$it.jobtitle$} \hfill \textit{$it.dates$}
+\textbf{$it.jobtitle$}\\
+\textit{$it.name$}\hfill $it.dates$
 $it.bullets$
 $endfor$
 
@@ -68,10 +75,10 @@ $for(competitions)$
 $it.bullets$
 $endfor$
 
-\section{Volunteering}
-$for(volunteering)$
-$it.bullets$
-$endfor$
+% \section{Volunteering}
+% $for(volunteering)$
+% $it.bullets$
+% $endfor$
 
 
 \end{document}
