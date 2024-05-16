@@ -21,8 +21,14 @@
 
 \newcommand{\leftymargin}{0.75in}
 
+% Use specific font
+\newfontfamily{\secfamily}{Work Sans}[Ligatures=TeX]
+\newfontfamily{\titlefamily}{Gentium Plus}
+\setmainfont[Numbers=Lining]{Gentium Book Plus}
+
+
 %% Make headings purplz
-\titleformat{\section}{\normalfont\Large\bfseries\color{angelpurp}}{\thesection}{1em}{}
+\titleformat{\section}{\normalfont\Large\bfseries\color{angelpurp}\secfamily}{\thesection}{1em}{}
 
 % Pandoc uses a \tightlist command to make the lists more compact. Since we're
 % not using the default template, we need to add support for it ourselves.
@@ -35,9 +41,6 @@
 % Disable indent
 \setlength{\parindent}{0pt}
 
-% Use specific font
-\setmainfont{Crimson Pro}
-
 \begin{document}
 
 %% Purple header with Angel's Name
@@ -45,8 +48,8 @@
   \node[yshift=-1.5in] at (current page.north west){
     \begin{tikzpicture}[remember picture, overlay]
       \fill [angelpurp] (0,0) rectangle (\paperwidth,1.5in);
-      \node[anchor=west, xshift=\leftymargin, yshift=0.75in] {{\Huge\color{white}\textbf{Angel Ouellet}}};
-      \node[anchor=west, xshift=\leftymargin, yshift=0.75in-20pt] {\large\color{white}\href{mailto:resume@jouellet.net}{resume@jouellet.net}};
+      \node[anchor=west, xshift=\leftymargin, yshift=0.75in] {{\Huge\color{white}\textbf{\secfamily Angel Ouellet}}};
+      \node[anchor=west, xshift=\leftymargin, yshift=0.75in-20pt] {\large\color{white}\secfamily\href{mailto:resume@jouellet.net}{resume@jouellet.net}};
     \end{tikzpicture}
   };
 \end{tikzpicture}
@@ -57,26 +60,27 @@ $abstract$
 
 \section{Work History}
 $for(jobs)$
-\textbf{$it.jobtitle$}\\
-\textit{$it.name$}\hfill $it.dates$
+\textbf{\titlefamily $it.jobtitle$}\\
+\textit{\titlefamily $it.name$}\hfill $it.dates$
 $it.bullets$
 $endfor$
 
 \section{Skills}
 \begin{itemize}
 \tightlist$for(skills)$
-        \item \textbf{$it.name$:} $it.list$
+        \item \textbf{\titlefamily $it.name$:} $it.list$
 $endfor$
 \end{itemize}
 
 \section{Competitions}
 $for(competitions)$
-\textbf{$it.name$}
+\textbf{\titlefamily $it.name$}
 $it.bullets$
 $endfor$
 
 % \section{Volunteering}
 % $for(volunteering)$
+% \textbf{\titlefamily $it.name$}
 % $it.bullets$
 % $endfor$
 
