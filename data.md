@@ -3,10 +3,18 @@ abstract: Passionate hardware reverse-engineer and avid research enthusiast spec
 jobs:
 - 
   name: Beanfield Metroconnect
-  jobtitle: Network Systems Integration Developer 
-  dates: 2021/10 -- Present
+  jobtitle: Cybersecurity AnalystFirst, of only two teams, in 2025, to complete the Meta track at Northsec, requirering diverse knowledge and experience.
+  dates: 2024/10 -- Present
   bullets: |
     - Leads security analyses of new and legacy equipment, from detection through mitigation and until full remediation. Identified multiple critical issues in a deployed, on-backbone device including authentication bypass leading to full administrative control. Discovered major vulnerability in physical access control system which allowed undetected access to corporate and production systems.
+    - Spearheaded the selection and implementation of a new vulnerability scanning solution (Nessus), enabling proactive identification and prioritization of security flaws across all network assets.
+    - Streamlined the vulnerability lifecycle by creating an automated tracking and notification system, ensuring critical findings were immediately assigned and actioned by engineering teams.
+- 
+  name: Beanfield Metroconnect
+  jobtitle: Network Systems Integration Developer 
+  dates: 2021/10 -- 2024/10
+  bullets: |
+
     - Spearheads development of infrastructure automation, minimizing human error and rapidly accelerating delivery of both products and services. Automated provisioning of end-user network equipment, eliminating technician on-site waiting time and allowing for more customer deployments per day.
     - Acts as embedded security liaison to the Network/Engineering organization, providing guidance and feedback during development and implementation.
     - Champions the safe adoption of open-source technology and contributions within the company, leading by example through work with LibreNMS, Oxidized, etc.
@@ -34,6 +42,7 @@ competitions:
   bullets: |
     - Core member of the Skiddies-as-a-Service NorthSec team, focusing on reverse-engineering and embedded challenges at world's largest capture-the-flag hacking competition.
     - Top Placements: 3rd (of 80) in 2021, 4th (of 80) in 2022, 4th (of 78) in 2020.
+    - Became the first of only two teams (out of 80+) to solve the 2025 NorthSec Meta track, a multi-stage challenge demanding a wide range of security expertise.
 -
   name: REcon
   bullets: |
