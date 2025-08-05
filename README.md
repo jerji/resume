@@ -1,4 +1,4 @@
-# Resume
+# Angel Ouellet
 
 Passionate hardware reverse-engineer and avid research enthusiast
 specializing in embedded systems. Seeking opportunities within a
