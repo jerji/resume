@@ -15,7 +15,7 @@ jobs:
     - uses: actions/checkout@v4
 
     - name: configure
-      run: ./deps.sh
+      run: bash deps.sh
 
     - name: Make Resume
       run: make
