@@ -4,9 +4,9 @@ jobs:
 - 
   name: Beanfield Metroconnect
   jobtitle: Cybersecurity AnalystFirst, of only two teams, in 2025, to complete the Meta track at Northsec, requirering diverse knowledge and experience.
-  dates: 2024/10 -- Present
+  dates: 2024/10 -- 2025/09
   bullets: |
-    - Leads security analyses of new and legacy equipment, from detection through mitigation and until full remediation. Identified multiple critical issues in a deployed, on-backbone device including authentication bypass leading to full administrative control. Discovered major vulnerability in physical access control system which allowed undetected access to corporate and production systems.
+    - Leaded security analyses of new and legacy equipment, from detection through mitigation and until full remediation. Identified multiple critical issues in a deployed, on-backbone device including authentication bypass leading to full administrative control. Discovered major vulnerability in physical access control system which allowed undetected access to corporate and production systems.
     - Spearheaded the selection and implementation of a new vulnerability scanning solution (Nessus), enabling proactive identification and prioritization of security flaws across all network assets.
     - Streamlined the vulnerability lifecycle by creating an automated tracking and notification system, ensuring critical findings were immediately assigned and actioned by engineering teams.
 - 
@@ -14,10 +14,9 @@ jobs:
   jobtitle: Network Systems Integration Developer 
   dates: 2021/10 -- 2024/10
   bullets: |
-
-    - Spearheads development of infrastructure automation, minimizing human error and rapidly accelerating delivery of both products and services. Automated provisioning of end-user network equipment, eliminating technician on-site waiting time and allowing for more customer deployments per day.
-    - Acts as embedded security liaison to the Network/Engineering organization, providing guidance and feedback during development and implementation.
-    - Champions the safe adoption of open-source technology and contributions within the company, leading by example through work with LibreNMS, Oxidized, etc.
+    - Spearheaded development of infrastructure automation, minimizing human error and rapidly accelerating delivery of both products and services. Automated provisioning of end-user network equipment, eliminating technician on-site waiting time and allowing for more customer deployments per day.
+    - Acted as embedded security liaison to the Network/Engineering organization, providing guidance and feedback during development and implementation.
+    - Championed the safe adoption of open-source technology and contributions within the company, leading by example through work with LibreNMS, Oxidized, etc.
 -
   name: AYE3D
   jobtitle: Lead Software Developer
