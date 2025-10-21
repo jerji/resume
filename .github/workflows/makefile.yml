@@ -20,6 +20,12 @@ jobs:
     - name: Make Resume
       run: make
 
-    - name: List Files
-      run: ls
+    - name: Move files
+      run: mkdir out && mv Angel_Ouellet.pdf README.md out
+
+    - name: Upload Build Artifacts
+      uses: actions/upload-artifact@v4
+      with:
+          name: Output
+          path: out
 
