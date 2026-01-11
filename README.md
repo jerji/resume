@@ -10,9 +10,9 @@ community, I am eager to bring my diverse skill set to your team.
 ## Work Experience
 
 ### Beanfield Metroconnect
-2024/10 -- Present
+2024/10 -- 2025/09
 
--   Leads security analyses of new and legacy equipment, from detection
+-   Leaded security analyses of new and legacy equipment, from detection
     through mitigation and until full remediation. Identified multiple
     critical issues in a deployed, on-backbone device including
     authentication bypass leading to full administrative control.
@@ -28,15 +28,15 @@ community, I am eager to bring my diverse skill set to your team.
 ### Beanfield Metroconnect
 2021/10 -- 2024/10
 
--   Spearheads development of infrastructure automation, minimizing
+-   Spearheaded development of infrastructure automation, minimizing
     human error and rapidly accelerating delivery of both products and
     services. Automated provisioning of end-user network equipment,
     eliminating technician on-site waiting time and allowing for more
     customer deployments per day.
--   Acts as embedded security liaison to the Network/Engineering
+-   Acted as embedded security liaison to the Network/Engineering
     organization, providing guidance and feedback during development and
     implementation.
--   Champions the safe adoption of open-source technology and
+-   Championed the safe adoption of open-source technology and
     contributions within the company, leading by example through work
     with LibreNMS, Oxidized, etc.
 
